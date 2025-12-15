@@ -1,3 +1,3 @@
-module github.com/krazee-man/krazee-utils
+module github.com/krazeeman/krazee-utils
 
 go 1.24.3
